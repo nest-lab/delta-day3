@@ -1,0 +1,16 @@
+{
+  "name": "english-scrambled-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nest lab team Delta",
+  "license": "ISC",
+  "dependencies": {
+    "simple-statistics": "^4.1.1",
+    "unscramble": "0.0.1-v",
+    "word-list": "latest"
+  }
+}
